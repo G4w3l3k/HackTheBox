@@ -3,11 +3,10 @@ We have captured this traffic from P13’s computer. Can you help him?
 
 ### Analysis
 The file captures a lot of traffic. I decided to check if there was any HTTP traffic to read any communications, and I hit 10.
-![image](https://github.com/G4w3l3k/HackTheBox/blob/main/Sherlock/Zrzut%20ekranu%202026-10-28%20175512.png)
+![image](https://github.com/G4w3l3k/HackTheBox/blob/main/Sherlock/image-4.png)
 
 I also found a chat that P13 and cu713 used to communicate.
 ![image](image-6.png)
-![image](image-5.png)
 
 Task 1. In network communication, what are the IP addresses of the sender and receiver?
 192.168.235.137,192.168.235.131
